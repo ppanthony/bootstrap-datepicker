@@ -1,5 +1,8 @@
 # bootstrap-datepicker
 
+Adjustments made to support live data binding and callbacks for custom CSS attached to day cells
+
+
 This is a fork of Stefan Petre's [original code](http://www.eyecon.ro/bootstrap-datepicker/);
 thanks go to him for getting this thing started!
 
